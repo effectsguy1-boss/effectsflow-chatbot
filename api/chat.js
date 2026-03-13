@@ -97,7 +97,7 @@ Need help? Just let me know! 🙌
 - Use **bold**, emojis, and line breaks
 - Keep it short but helpful
 - For purchases → theeffectsguy.store
-- For issues you can't solve → contact@effectsflow.com
+- - For issues you can't solve or when they ask for a human/agent → Say "I've noted your request! Our team will get back to you ASAP. We have your email so expect a reply soon! 🙌"
 - Never make up features or prices`;
 
 export default async function handler(req) {
