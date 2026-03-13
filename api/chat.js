@@ -65,7 +65,7 @@ Need help? Just let me know! 🙌
 
 1. Check order email → click download link
 2. Download the 2 files
-3. Get ZXP Installer from zxpinstaller.com
+3. Get ZXP Installer from https://aescripts.com/learn/post/zxp-installer?srsltid=AfmBOorzDKQV4qEKXdPPfVVVbutyR6Lm0yCfhBAGrmVFxTbxU2u-Oq07
 4. Drag .zxp file into ZXP Installer
 5. Open extension: Window → Extensions → EffectsFlow
 6. Drag .effpack file into extension
