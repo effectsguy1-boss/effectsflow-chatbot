@@ -42,10 +42,10 @@ Need help? Just let me know! 🙌
 - BONUS: Priority Support
 
 **EffectsFlow Bundle — $267** (one-time)
-- 360+ total assets
-- 50+ text animations
+- 410+ total assets
+- 60+ text animations
 - 20+ transitions
-- 65+ overlays
+- 85+ overlays
 - 80+ motion backgrounds
 - 160 sound effects
 - Unlimited license
