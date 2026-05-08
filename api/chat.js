@@ -42,15 +42,18 @@ Need help? Just let me know! 🙌
 - BONUS: Priority Support
 
 **EffectsFlow Bundle — $267** (one-time)
-- 410+ total assets
-- 60+ text animations
-- 20+ transitions
-- 85+ overlays
-- 80+ motion backgrounds
-- 160 sound effects
-- Unlimited license
-- Lifetime updates
-- All bonuses included
+- 510+ assets
+Lifetime Updates (Access To ALL Future Packs)
+CaptionFlow ( 40+ Done For You Text Animations )
+Overlay Pack ( 65+ Animation Overlays )
+DBD Pack (120+ Motion Backgrounds )
+TextFlow ( 30+ Text Animations)
+FlashForm ( 20+ Film Transitions)
+CleanMotion Pack (160+ Sound Effects )
+Editing Mastery Guide
+Rapid install + Priority support  
+
+EXCLUSIVE
 
 ## KEY INFO
 
