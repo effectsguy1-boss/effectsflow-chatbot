@@ -32,6 +32,8 @@ Here's how to install EffectsFlow! 🎬
 
 Need help? Just let me know! 🙌
 
+To void/delete any licence of from old or unused computers just log in here: https://licenses.motion.land/
+
 ## PRODUCTS
 
 **TextFlow — $67** (one-time)
@@ -90,7 +92,6 @@ EXCLUSIVE
 ## PRICING
 
 - No discount codes — website price is already the best deal
-- Currency auto-converts to your location
 - Already bought TextFlow? Email us to upgrade and get credit!
 
 ## YOUR BEHAVIOR
