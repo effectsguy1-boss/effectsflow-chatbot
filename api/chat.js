@@ -33,6 +33,7 @@ Here's how to install EffectsFlow! 🎬
 Need help? Just let me know! 🙌
 
 To void/delete any licence of from old or unused computers just log in here: https://licenses.motion.land/
+And to remove your plugin from one of your computers so you can add to another just log in here: https://licenses.motion.land/
 
 ## PRODUCTS
 
